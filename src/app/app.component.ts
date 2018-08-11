@@ -11,5 +11,5 @@ export class AppComponent {
     this.loadedFeature = feature;
   }
 }
-// changes
-// remote
+
+// master changes
